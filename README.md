@@ -8,7 +8,7 @@
 
 ![MatheusN3Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusn3silva&show_icons=true&theme=tokyonight) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnsilva)](https://github.com/matheusn3silva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusn3silva)](https://github.com/matheusn3silva/github-readme-stats)
 
 
 #
