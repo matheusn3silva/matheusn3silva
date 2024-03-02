@@ -43,17 +43,7 @@ Sou um programador focado no <i>front-end</i>, porém, para que minhas habilidad
 <br />
 <br />
 
-## PRINCIPAIS PROJETOS
-
-<div style="width: 300px;">
-    <img src="./images/space-tourism.jpg" alt="Foto do Projeto chamado Space Tourism" />
-</div>
-
-<br />
-<br />
-<br />
-
-## CONTATE-ME
+## 📞 CONTATE-ME
 
 <div>Linkedin: <a href="https://www.linkedin.com/in/matheusnsilva">link</a></div>
 <div>Portfólio: <a href="https://my-portfolio-alpha-ruby.vercel.app/">link</a></div>
