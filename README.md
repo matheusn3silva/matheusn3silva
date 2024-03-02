@@ -1,7 +1,6 @@
-# <h1 align="center">Bem-vindo ao meu perfil! 😉👋</h1>
+# <h1 align="center">BEM-VINDO AO MEU PERFIL! 😉👋</h1>
 <br/>
 Olá, meu nome é <b>Matheus Nascimento da Silva</b>. Sou um <b>Programador Front-End</b> comprometido em transformar ideias de software em realidade, utilizando <b>criatividade</b> e garantindo qualidade com as melhores ferramentas <b>modernas</b>.
-<br/>
 <br/>
 <br/>
 
@@ -22,14 +21,11 @@ Sou um programador focado no <i>front-end</i>, porém, para que minhas habilidad
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
 <br/>
 <br/>
-<br/>
 ## 😄 SOBRE MIM
 
 <p>
    Há dois anos ⏰, me deparei com o fascinante mundo da programação 🖥️ e decidi mergulhar nele. No começo, estava animado, mas logo enfrentei dificuldades e me questionei se era realmente isso que eu queria. Na época, estava empregado e todo tempo livre que tinha era dedicado ao aprendizado. Enfrentei muitos desafios por tentar absorver muita informação ao mesmo tempo. No entanto, insatisfeito com meu trabalho, ansiava por algo mais desafiador, algo que me fizesse crescer. Por isso, persisti na programação. Essa determinação me acompanhou até o momento em que decidi deixar meu emprego para me dedicar 100% ao desenvolvimento. E até hoje, continuo firme nessa jornada. ⛰️
 </p>
-
-<br/>
 <br/>
 <br/>
 
@@ -39,7 +35,6 @@ Sou um programador focado no <i>front-end</i>, porém, para que minhas habilidad
 2. Desenvolver minhas habilidades e trabalhar no exterior.
 3. Criar minha própria empresa com minhas experiências e conhecimento.
 
-<br />
 <br />
 <br />
 
