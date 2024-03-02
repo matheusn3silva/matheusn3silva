@@ -1,4 +1,8 @@
-# <h1 align="center">BEM-VINDO AO MEU PERFIL! 😉👋</h1>
+<p align="center">
+   <img src="avatar.png" alt="Um avatar criado com IA sentando de perna cruzada mexendo no notbook" width="300" />
+</p>
+<h1 align="center">BEM-VINDO AO MEU PERFIL! 😉👋</h1>
+
 <br/>
 Olá, meu nome é <b>Matheus Nascimento da Silva</b>. Sou um <b>Programador Front-End</b> comprometido em transformar ideias de software em realidade, utilizando <b>criatividade</b> e garantindo qualidade com as melhores ferramentas <b>modernas</b>.
 <br/>
