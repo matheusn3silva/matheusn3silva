@@ -1,44 +1,60 @@
-### Hello! I'm Matheus Nascimento. ✌️
+# <h1 align="center">Bem-vindo ao meu perfil! 😉👋</h1>
+<br/>
+Olá, meu nome é <b>Matheus Nascimento da Silva</b>. Sou um <b>Programador Front-End</b> comprometido em transformar ideias de software em realidade, utilizando <b>criatividade</b> e garantindo qualidade com as melhores ferramentas <b>modernas</b>.
+<br/>
+<br/>
+<br/>
 
-#
+## HABILIDADES
+Sou um programador focado no <i>front-end</i>, porém, para que minhas habilidades melhorem e alcance um maior nível comecei a entrar no mundo do <i>back-end</i>.
 
-### Social links
+### Front end 🐱‍💻🐱‍💻
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusnsilva/)
+### Back end 🎲🎲
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
+<br/>
+<br/>
+<br/>
+## 😄 SOBRE MIM
 
-![MatheusN3Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusn3silva&show_icons=true&theme=tokyonight) 
+<p>
+   Há dois anos ⏰, me deparei com o fascinante mundo da programação 🖥️ e decidi mergulhar nele. No começo, estava animado, mas logo enfrentei dificuldades e me questionei se era realmente isso que eu queria. Na época, estava empregado e todo tempo livre que tinha era dedicado ao aprendizado. Enfrentei muitos desafios por tentar absorver muita informação ao mesmo tempo. No entanto, insatisfeito com meu trabalho, ansiava por algo mais desafiador, algo que me fizesse crescer. Por isso, persisti na programação. Essa determinação me acompanhou até o momento em que decidi deixar meu emprego para me dedicar 100% ao desenvolvimento. E até hoje, continuo firme nessa jornada. ⛰️
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusn3silva)](https://github.com/matheusn3silva/github-readme-stats)
+<br/>
+<br/>
+<br/>
 
+## 🎯 MINHAS METAS
 
-#
+1. Encontrar minha primeira oportunidade de atuar na área.
+2. Desenvolver minhas habilidades e trabalhar no exterior.
+3. Criar minha própria empresa com minhas experiências e conhecimento.
 
-### 🤖Technology 🌟 Skills 🌟
+<br />
+<br />
+<br />
 
-<div style="display: inline-block">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
-    <img align="center" alt="VUE" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"> 
-    <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
+## PRINCIPAIS PROJETOS
+
+<div style="width: 300px;">
+    <img src="./images/space-tourism.jpg" alt="Foto do Projeto chamado Space Tourism" />
 </div>
 
-#
-## 😉 About me
+<br />
+<br />
+<br />
 
-Hello, how are you? All good!? 👍
+## CONTATE-ME
 
-I'm a programmer passionate about learning and developing myself. I always try to get out of my comfort zone to improve myself, a little every day.
-
-I'm currently taking programming courses and I'm learning by improving my skills in <strong>Vue.js</strong> and <strong>Typescript</strong>.
-
-To practice and develop my current skills, I use sites like <strong><a style="color: #fff;" href='https://www.frontendmentor.io/profile/Matheus-N-da-Silva'>Frontend-Mentor</a></strong> to practice projects and <strong><a style="color: # ugh;" href='https://exercism.org/profiles/Matheus-N-da-Silva'>Exercism</a></strong> to work on my logical reasoning.
-
-#
-### 🎯 My goals are:
-
-  - Getting my first opportunity in the programming area.
-  - Become a high-level <strong>front-end</strong> programmer capable of developing apps and web pages quickly and efficiently.
-  - Being able to <strong>communicate</strong> in English.
-  - Create a YouTube 📹 channel to share my knowledge and increase my network.
+<div>Linkedin: <a href="https://www.linkedin.com/in/matheusnsilva">link</a></div>
+<div>Portfólio: <a href="https://my-portfolio-alpha-ruby.vercel.app/">link</a></div>
+<div>Whatsapp: <a href="https://api.whatsapp.com/send?phone=5511978384169&amp;text=Olá,%20como%20vai?!">link</a></div>
