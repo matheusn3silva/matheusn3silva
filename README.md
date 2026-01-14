@@ -1,6 +1,3 @@
-<p align="center">
-   <img src="avatar.png" alt="Um avatar criado com IA sentando de perna cruzada mexendo no notbook" width="300" />
-</p>
 <h1 align="center">BEM-VINDO AO MEU PERFIL! 😉👋</h1>
 
 <br/>
