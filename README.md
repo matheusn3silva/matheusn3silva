@@ -142,7 +142,7 @@ const matheus = {
 - [ ] 🟡 Conseguir minha primeira vaga como **Desenvolvedor Fullstack Júnior**
 - [ ] 🔵 Finalizar o RPG Maker e colocar em produção
 - [ ] 🟢 Dominar arquitetura de microsserviços
-- [ ] 🟣 Trabalhar em projetos grandes projetos
+- [ ] 🟣 Trabalhar em grandes projetos
 
 ---
 
